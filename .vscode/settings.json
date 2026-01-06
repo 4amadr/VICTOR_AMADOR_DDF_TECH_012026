@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\vitor\\anaconda3\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\vitor\\anaconda3\\Lib\\site-packages"
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
+
